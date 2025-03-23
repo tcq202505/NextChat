@@ -337,7 +337,7 @@ export function SideBar(props: { className?: string }) {
               </Link>
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href="https://github.com/datxycom/NextChat" rel="noopener noreferrer">
+              <a href="https://openkey.cloud/register?aff=22CVF" rel="noopener noreferrer">
                 <IconButton
                   aria={Locale.Export.MessageFromChatGPT}
                   icon={<GithubIcon />}
