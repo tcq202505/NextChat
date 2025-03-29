@@ -26,6 +26,13 @@
 
 </div>
 
+## Dokploy
+
+Dokploy 是一个免费的、可自托管的平台即服务 （PaaS），可简化应用程序和数据库的部署和管理。
+
+```
+curl -sSL https://dokploy.com/install.sh | sh
+```
 
 ## Development
 
